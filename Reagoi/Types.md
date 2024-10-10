@@ -1,7 +1,7 @@
--  [[Ilo]]
-- [[Suru]]
-- [[Pyyntö]]
-- [[Kieltäytyminen]]
-- [[Hyväksyminen]]
-- [[Viha tai valitus]]
-- [[Anteeksipyyntö]]
+-  [[Ilo]] (Happiness)
+- [[Suru]] (Sadness)
+- [[Pyyntö]] (Request)
+- [[Kieltäytyminen]] (Refusal)
+- [[Hyväksyminen]] (Adoption)
+- [[Viha tai valitus]] (Anger or Complain)
+- [[Anteeksipyyntö]] (Apology)
