@@ -1,0 +1,7 @@
+-  [[Ilo]]
+- [[Suru]]
+- [[Pyyntö]]
+- [[Kieltäytyminen]]
+- [[Hyväksyminen]]
+- [[Viha tai valitus]]
+- [[Anteeksipyyntö]]
