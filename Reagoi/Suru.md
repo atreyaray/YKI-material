@@ -10,10 +10,10 @@
 2. Express regret
 	1. I am sorry for your loss
 	2. I am sorry that it happened
-3. Inquire about situation
+3. Inquire about person
 	1. How do you feel now?
 	2. How are you?
-4. Reassure
+4. Advise
 	1. Take it easy
 	2. Don't blame yourself for it
 5. Reaffirm support
@@ -46,3 +46,4 @@
 | Voit aina puhua minulle.                                                                             | You can always speak to me!                    |
 | Haluatko jäädä yksin?                                                                                | Do you want to be left alone?                  |
 
+ 
