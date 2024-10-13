@@ -1,3 +1,5 @@
+# Types 
+
 -  [[Ilo]] (Happiness)
 - [[Suru]] (Sadness)
 - [[Tuki ja Apu]]
