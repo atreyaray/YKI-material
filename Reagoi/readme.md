@@ -2,7 +2,7 @@
 
 -  [[Ilo]] (Happiness)
 - [[Suru]] (Sadness)
-- [[Tuki ja Apu]]
+- [[Tuki ja Apu]] (Help and Support)
 - [[Pyyntö]] (Request)
 - [[Kieltäytyminen]] (Refusal)
 - [[Hyväksyminen]] (Adoption)
