@@ -1,1 +1,2 @@
-to contemplate, reflect
+to contemplate
+
