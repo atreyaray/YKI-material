@@ -1,4 +1,5 @@
 - [[hoitaa]]
+- [[käyttää]]
 - [[saada valmiiksi]]
 - [[suorittaa]]
 - [[tehdä]]

@@ -2,4 +2,5 @@
 - [[havaita]]
 - [[katsella]]
 - [[nähdä]]
+- [[näkyä]]
 - [[tarkkailla]]
