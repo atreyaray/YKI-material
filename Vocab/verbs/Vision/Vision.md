@@ -1,0 +1,5 @@
+- [[katsoa]]
+- [[havaita]]
+- [[katsella]]
+- [[nähdä]]
+- [[tarkkailla]]
