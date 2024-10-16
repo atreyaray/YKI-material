@@ -1,0 +1,7 @@
+- [[huomauttaa]]
+- [[ilmoittaa]]
+- [[keskustella]]
+- [[mainita]]
+- [[puhua]]
+- [[sanoa]]
+- [[vastata]]
