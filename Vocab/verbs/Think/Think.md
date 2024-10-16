@@ -1,0 +1,6 @@
+- [[ajatella]]
+- [[arvella]]
+- [[luulla]]
+- [[miettiä]]
+- [[pohtia]]
+- [[uskoa]]
