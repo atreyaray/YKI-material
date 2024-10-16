@@ -1,0 +1,5 @@
+- [[kävellä]]
+- [[käydä]]
+- [[lähteä]]
+- [[mennä]]
+- [[vierailla]]
